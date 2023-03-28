@@ -1,0 +1,4 @@
+influxdb-dev-mr8u: 172.17.0.3:8186
+influxdb-prod-x23z: 172.17.0.5:8086
+nodered-prod-owc0: 172.17.0.6:1880
+grafana-prod-q56b: 172.17.0.7:3000
