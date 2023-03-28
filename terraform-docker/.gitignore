@@ -2,12 +2,9 @@
 # .tfvars and ALL security keys in production. Those are here only for the benefit of the course and are not in use. 
 # Local .terraform directories
 **/.terraform/*
-
 # .tfstate files
-**/*.tfstate
-**/*.tfstate.*
-**/**/*.tfstate
-**/**/*.tfstate.*
+*.tfstate
+*.tfstate.*
 
 # Crash log files
 crash.log
